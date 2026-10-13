@@ -1,5 +1,5 @@
 (intro)=
-# Welcome to the mini-module: "Documentation and Metadata"!
+# Welcome to the mini-module: "Documentation and Metadata!"
 
 This mini-module is designed for students at TU Delft who are in the planning phase of research projects. 
 
