@@ -1,4 +1,4 @@
-# Metadata and AI 
+# 2d. Metadata and AI 
 
 ## Metadata and Generative AI 
 
