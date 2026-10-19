@@ -1,4 +1,4 @@
-# Features of effective documentation  
+# 1c. Features of effective documentation  
 
 Here, we'll look at characteristics of “good” data documentation that make research objects reproducible. We'll include a scenario for each to make these features more concrete:   
 
@@ -13,7 +13,7 @@ During testing, the software automatically records data for the samples; it coll
 
 Due to this incomplete documentation, it's not possible for others to assess the validity of the experimental results, recreate the experiment, or reproduce the results.  
 ```  
-This example shows the importance of including relevant details and complete information about experimental conditions in documentation files. 
+This example shows the importance of including relevant details and **complete** information about experimental conditions in documentation files. 
 
 ### Consistent: 
 Units, names, terminology, variables are documented, and documentation practices are used consistently throughout the project. 
@@ -29,7 +29,7 @@ As the project develops, the team conducts experiments to test different compone
 At the end of the project, the team needs to write a final report explaining the development of the sensor, the experiments that were conducted, and how these results informed the final design. However, because the project was not consistently documented, the researchers struggle to reconstruct the sequence of experiments and design decisions. They have difficulty determining which experimental results support particular design choices. In some cases, they cannot establish the conditions under which earlier experiments were performed. The team therefore has to spend considerable time searching through personal notes, data files, meeting records, and different versions of the design to reconstruct the project's history. Thus, the final report is more difficult to produce and may provide an incomplete or uncertain account of how the final design was developed.  
 ```
 
-This example shows how important it is to discuss plans for documentation and come to consensus within your team before you start to collect or process any research data. It can save everyone significant time and headaches.   
+This example shows how important it is to discuss plans for documentation and come to consensus within your team before you start to collect or process any research data. **Consistency** can save everyone significant time and headaches.   
 
  
 
