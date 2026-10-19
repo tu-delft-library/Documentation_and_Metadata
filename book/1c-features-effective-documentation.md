@@ -1,4 +1,4 @@
-# 1c. Features of effective documentation  
+# 1c. Features of Effective Documentation  
 
 Here, we'll look at characteristics of “good” data documentation that make research objects reproducible. We'll include a scenario for each to make these features more concrete:   
 
