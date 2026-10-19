@@ -17,6 +17,7 @@ parts:
           - file: 1f-check-understanding.md
   
    - caption: 2. Metadata 
+     chapters: 
           - file: 2a-definition-and-relevance.md
           - file: 2b-key-concepts.md
           - file: 2c-community-metadata-standards.md
