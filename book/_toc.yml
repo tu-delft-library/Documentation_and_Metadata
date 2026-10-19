@@ -6,30 +6,28 @@ root: home.md
 parts:
   - caption: Introduction
     chapters:
-      - file: introduction
-  - caption: I. Documentation
+      - file: introduction.md
+  - caption: 1. Documentation
     chapters: 
-        sections:
-          - file: 1a-definition-and-relevance
-          - file: 1b-documentation-strategies
-          - file: 1c-features-effective-documentation
-          - file: 1d-different-fields
-          - file: 1e-documentation-and-AI
-          - file: 1f-check-understanding
+          - file: 1a-definition-and-relevance.md
+          - file: 1b-documentation-strategies.md
+          - file: 1c-features-effective-documentation.md
+          - file: 1d-different-fields.md
+          - file: 1e-documentation-and-AI.md
+          - file: 1f-check-understanding.md
   
-   - caption: II. Metadata 
-        sections:
-          - file: 2a-definition-and-relevance
-          - file: 2b-key-concepts
-          - file: 2c-community-metadata-standards
-          - file: 2d-metadata-and-AI
-          - file: 2e-check-your-understanding 
+   - caption: 2. Metadata 
+          - file: 2a-definition-and-relevance.md
+          - file: 2b-key-concepts.md
+          - file: 2c-community-metadata-standards.md
+          - file: 2d-metadata-and-AI.md
+          - file: 2e-check-your-understanding.md 
       
   - caption: Conclusion
     chapters:
-      - file: closing_remarks
-      - file: references
-      - file: credits
+      - file: closing_remarks.md
+      - file: references.md
+      - file: credits.md
 
 
 
