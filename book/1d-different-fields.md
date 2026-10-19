@@ -1,4 +1,4 @@
-# 1d. Documentation in different fields  
+# 1d. Documentation in Different Fields  
 
 ## Documentation by discipline 
 
