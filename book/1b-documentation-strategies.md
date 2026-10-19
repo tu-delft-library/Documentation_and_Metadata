@@ -86,27 +86,23 @@ A README file is a human-readable file that provides essential information about
 
 - experimental protocols 
 
+:::{dropdown} More information about lab notebooks
+Watch this video to learn about the features of RSpace:   
 
-**More information about lab notebooks:**  
-
-
-- Watch this video to learn about the features of RSpace  
-
- 2 Minute RSpace Introduction:    
-
-eLabJournal  
+2 Minute RSpace Introduction    
 
 Watch this video for an introduction to key features of the eLabJournal electronic lab notebook:  
 
- eLabJournal - Electronic Laboratory Notebook 
-
+eLabJournal - Electronic Laboratory Notebook 
+:::
  
 
 #### Data dictionary 
 
-**Definition:** A data dictionary explains data that has been entered in a spreadsheet. It allows others to clearly interpret variable names and values (OSF Support). 
+##### Definition
+A data dictionary explains data that has been entered in a spreadsheet. It allows others to clearly interpret variable names and values (OSF Support). 
 
-**What details are included in a data dictionary?**  
+##### What details are included in a data dictionary?  
 
 - a list of elements/variables found in the dataset 
 
@@ -118,7 +114,7 @@ Watch this video for an introduction to key features of the eLabJournal electron
 
 - the source of the data  
 
-**Good practices for data dictionaries:**  
+##### Good practices for data dictionaries  
 
 - Write in clear and consistent variable names to make sure that others can understand and use the data dictionary.  
 
@@ -130,7 +126,7 @@ Watch this video for an introduction to key features of the eLabJournal electron
 
 - Update the data dictionary regularly to make sure the information stays accurate as the data is processed further. 
 
-:::{dropdown} More information + templates for data dictionaries: 
+:::{dropdown} More information + templates for data dictionaries 
 
 These links give an explanation, a general template, and more examples of data dictionaries:  
 
@@ -141,7 +137,7 @@ These links give an explanation, a general template, and more examples of data d
 - <a href="https://library.si.edu/sites/default/files/tutorial/pdf/datadictionaries20180226.pdf" target="_blank"> Guide for creating a data dictionary </a>   
 :::
 
-Please note: Similar documentation to a data dictionary may be referred to as a “codebook” in some fields or for certain types of data, such as survey or qualitative data. Codebooks are relevant for coded responses and categories used in surveys and qualitative data. They are often used in the social sciences. [share link from above resources]  
+Please note: Similar documentation to a data dictionary may be referred to as a “codebook” in some fields or for certain types of data, such as survey or qualitative data. Codebooks are relevant for coded responses and categories used in surveys and qualitative data. They are often used in the social sciences.  
 
  
 
@@ -152,8 +148,7 @@ File naming conventions and folder structures also support efficient documentati
 
 ## Document Your Analysis 
 
-During data processing and analysis: How will you document your workflow to maintain a clear link between the data, your analysis method(s), and your results? 
-
+During data processing and analysis you must document your workflow to maintain a clear link between the data, your analysis method(s), and your results.  
 
 You need to document how you have processed and analysed the data to arrive at research findings, particularly when your project combines different types of research objects, methods, tools and equipment. Your documentation should make it possible for someone else to understand: 
 
@@ -169,10 +164,7 @@ You need to document how you have processed and analysed the data to arrive at r
 In this way, you will provide documentation for your process of analysis: by doing so, you will keep the link between your research objects, processing steps, and findings. This will help you retrace your own work, explain and justify your conclusions, and correct or update your analysis later. It also allows your instructors and classmates to understand and verify how the findings in your report were produced. 
 
  
-
 ### Ways to document your analysis:  
-
- 
 
 Two of the documentation tools already discussed for data collection can also be used to document the process of data analysis: A README and lab notebook.  
 
@@ -192,7 +184,7 @@ An analysis README uses the same README structure. It can be used to document:
 
 #### Lab notebook  
 
-A computational or digital lab notebook (e.g. Jupyter Notebook, Quatro).  	can be used to:  
+A computational or digital lab notebook (e.g. Jupyter Notebook, Quatro). It	can be used to:  
 
 - combine code , explanatory text, and outputs such as tables and figures 
 
