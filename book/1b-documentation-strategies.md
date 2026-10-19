@@ -1,15 +1,12 @@
 # 1b. Documentation Strategies  
 
-While planning your project, you should define which tools you will use to document different stages of the research cycle. Here, we'll introduce and describe a variety of documentation strategies. There isn't a single “right” way to do documentation because the selected documentation tools and practices need to fit the project and process. We'll look at key questions and types of documentation that correspond to two important stages of the research project cycle: data collection and processing/analysis.  
+While planning your project, you should define which tools you will use to document different stages of the research cycle. Here, we'll introduce and describe a variety of documentation strategies. There isn't a single “right” way to do documentation because the selected documentation tools and practices need to **fit the project and process**. We'll look at key questions and types of documentation that correspond to two important stages of the research project cycle: data collection and processing/analysis.  
 
 ## Document data collection  
 
-During and after data collection: How will you document the experimental conditions and research methods used to collect the raw data?  
-
-You will need to select tools and practices that fit the specifics of your project; the type(s) of documentation needs to fit the processes by which you plan to collect the data. Let's look at strategies that are often used to document how data was collected or to explain features of data that's  been collected:  
+During and after data collection you must document the experimental conditions and research methods used to collect the raw data. You will need to select tools and practices that fit the specifics of your project; the type(s) of documentation needs to fit the processes by which you plan to collect the data. Let's look at strategies that are often used to document how data was collected or to explain features of data that's been collected:  
 
  
-
 ### Ways to document data collection  
 
  
@@ -39,8 +36,6 @@ A README for a piece of **software** generally includes:
 - The license and copyright holder
 - Citation
 - Acknowledgements  
-
- 
 
 **Good practices for a README** 
 
