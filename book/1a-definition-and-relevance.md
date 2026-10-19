@@ -1,5 +1,6 @@
-# I. Documentation 
+# I. Documentation: Definition and Relevance  
  
+## Definition 
 
 **Documentation** gives relevant details about the exact processes and conditions that were used to create, collect,  process or analyse research objects. **Research objects** are any of the digital or physical materials that are created, collected, used, transformed, or generated during a research or design project. Examples of research objects include:  
 
