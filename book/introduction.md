@@ -41,6 +41,7 @@ While creating this mini-module, we used AI for:
 - learning about how to add HTML tags and CSS to Markdown in order to format and center text, configure links to open in new tabs, and adjust the properties of tables to make them more readable.
 - troubleshooting syntax errors whenever Sphinx design commands were not working.
 - to verify that all references were properly cited in APA 7th Edition.
+- to get ideas for research scenarios involving documentation and metadata. 
 
 AI tool used:
 
