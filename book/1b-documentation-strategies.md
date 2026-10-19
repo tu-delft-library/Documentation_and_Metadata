@@ -16,8 +16,9 @@ During and after data collection you must document the experimental conditions a
 A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a project and/or research object to ensure these can be interpreted correctly (Fuchs et al., 2018).  
 
  **What details are included in a README?**  
+::::{card-carousel} 2
 
-A README for a **dataset** generally includes:  
+:::{card} A README for a **dataset** generally includes:
 - Title of the dataset
 - Creator
 - Description of the dataset
@@ -28,14 +29,16 @@ A README for a **dataset** generally includes:
 - Software or tools required to open, process, or use the files
 - Relationship between files
 - Access, reuse, or licence information, where relevant 
-
-A README for a piece of **software** generally includes:   
+:::
+:::{card} A README for a piece of **software** generally includes:  
 - The name of the software
 - The steps for installation
 - Guidelines for contributing to the software
 - The license and copyright holder
 - Citation
 - Acknowledgements  
+:::
+::::
 
 **Good practices for a README** 
 
@@ -51,12 +54,14 @@ A README for a piece of **software** generally includes:
 
 6. A README that provides detailed information about a particular research object should be stored in the same folder as the research object that it is describing. A project-level README is stored in the root folder or main folder for a project. It describes the project, its overall folder structure, and the research objects it contains.
 
-**More information & templates for README's**
-- README template for data - You can download the template, save it as a .txt file, and fill in the information specific to the data for your project.  
+:::{dropdown} More information & templates for README's
+- <a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank"> README template for data </a>- You can download the template, save it as a .txt file, and fill in the information specific to the data for your project.  
 
-- Writing READMEs for research data - This page explains each component of a README file. If you're unsure about any part of the README template, you can refer to this guide for help. 
+- <a href="https://data.research.cornell.edu/data-management/sharing/readme/#best%20practices" target="_blank"> Writing READMEs for research data </a>- This page explains each component of a README file. If you're unsure about any part of the README template, you can refer to this guide for help. 
 
-- README template for software - This template can be filled with the information specific to the software for your project.
+- <a href="https://github.com/SS-NES/meta-template/blob/main/meta/template/README.md.jinja" target="_blank"> README template for software  </a>- This template can be filled with the information specific to the software for your project.
+:::
+
 
 
 #### Lab notebook  
@@ -84,11 +89,10 @@ A README for a piece of **software** generally includes:
 
 **More information about lab notebooks:**  
 
-RSpace 
 
-Watch this video to learn about the features of RSpace:  
+- Watch this video to learn about the features of RSpace  
 
- 2 Minute RSpace Introduction   
+ 2 Minute RSpace Introduction:    
 
 eLabJournal  
 
@@ -101,7 +105,6 @@ Watch this video for an introduction to key features of the eLabJournal electron
 #### Data dictionary 
 
 **Definition:** A data dictionary explains data that has been entered in a spreadsheet. It allows others to clearly interpret variable names and values (OSF Support). 
-
 
 **What details are included in a data dictionary?**  
 
@@ -127,19 +130,16 @@ Watch this video for an introduction to key features of the eLabJournal electron
 
 - Update the data dictionary regularly to make sure the information stays accurate as the data is processed further. 
 
- 
-**More information + templates for data dictionaries:**  
+:::{dropdown} More information + templates for data dictionaries: 
 
-Watch this video to learn more about this documentation structure:  
+These links give an explanation, a general template, and more examples of data dictionaries:  
 
-Data Management: Data Dictionaries   
+-  <a href="https://www.youtube.com/watch?v=Fe3i9qyqPjo" target="_blank"> Data Dictionaries video from the University of Wisconsin </a> 
+  
+- <a href="https://help.osf.io/article/217-how-to-make-a-data-dictionary" target="_blank"> How to make a data dictionary </a>  
 
-Click on each of these links to see a general template and more examples of data dictionaries:  
-
-How to make a data dictionary  
-
-Guide for creating a data dictionary  
-
+- <a href="https://library.si.edu/sites/default/files/tutorial/pdf/datadictionaries20180226.pdf" target="_blank"> Guide for creating a data dictionary </a>   
+:::
 
 Please note: Similar documentation to a data dictionary may be referred to as a “codebook” in some fields or for certain types of data, such as survey or qualitative data. Codebooks are relevant for coded responses and categories used in surveys and qualitative data. They are often used in the social sciences. [share link from above resources]  
 
