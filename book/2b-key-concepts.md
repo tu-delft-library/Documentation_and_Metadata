@@ -30,34 +30,42 @@ When depositing a research object in a repository, you will need to complete the
 :::
 
 :::{dropdown} #2 What are four types of metadata? 
-Descriptive, structural, technical, and administrative.  
+Four types of metadata: 
+- Descriptive
+- Structural
+- Technical
+- Administrative.  
 
 To illustrate further, let's look at a figure that represents wind energy with its attached metadata. The figure includes the four types of metadata.  
 
+<p align="center">
+  <img src="graphics/Metadata_wind_energy.gif" alt="Wind energy figure illustrating four types of metadata" width="650">
+</p>
 
  
 <p style="font-size: x-small;"><em>Adapted from "Wind Energy: Metadata Type" by Deutz et al. is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank"> CC BY 4.0</a></em>, a derivative of the <a href=" https://zenodo.org/records/3712065"target="_blank"> original work</a></p>
 
 
-The descriptive metadata (orange) describes the plot for discovery and identification purposes and includes elements such as title, author, location, project period and keywords. 
+The **descriptive metadata (orange)** describes the plot for discovery and identification purposes and includes elements such as title, author, location, project period and keywords. 
 
-The administrative metadata (light green) provides information to help manage the digital research object. Here, we see that it has a Creative Commons (CC) license. 
+The **administrative metadata (light green)** provides information to help manage the digital research object. Here, we see that it has a Creative Commons (CC) license. 
 
-The technical metadata is shown in purple. In this figure we see the instrument name listed. Technical metadata could also include the file type and size of the file.  
+The **technical metadata** is shown in **purple.** In this figure we see the instrument name listed. Technical metadata could also include the file type and size of the file.  
 
-The structural metadata in blue is the project ID since it indicates how this research object is linked to other research objects within the same project.  
+The **structural metadata** in **blue** is the project ID since it indicates how this research object is linked to other research objects within the same project.  
 
 (Written explanations adapted from Deutz et al, 2020)  
 :::
 
 :::{dropdown} #3: How does metadata differ from the other types of documentation?
+
 Metadata differs from other types of documentation because it is:  
 
 - Highly structured 
 
 - Machine-readable 
 
-Documentation provides fuller explanatory context, while metadata provides structured information for describing, finding, and supporting the reuse of research objects. 
+Documentation provides fuller explanatory context, while metadata provides **structured information** for describing, finding, and supporting the reuse of research objects. 
 :::
 
 ```{admonition} Protect sensitive metadata 
