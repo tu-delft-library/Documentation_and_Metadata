@@ -6,35 +6,35 @@
 
 ::::{card-carousel} 3
 
-:::{card} card 1
-research data 
+:::{card} 
+**research data** 
 :::
-:::{card} card 2
-code used for analysis 
+:::{card} 
+**code used for analysis**
 :::
-:::{card} card 3
-CAD models 
+:::{card} 
+**CAD models** 
 :::
-:::{card} card 4
-a contact list of participants
+:::{card} 
+**a contact list of participants**
 :::
-:::{card} card 5
-models and simulations
+:::{card} 
+**models and simulations**
 :::
-:::{card} card 6
-analysis code
+:::{card} 
+**analysis code**
 :::
-:::{card} card 7
-raw measurement data
+:::{card} 
+**raw measurement data**
 :::
-:::{card} card 8
-experimental samples or phantoms
+:::{card} 
+**experimental samples or phantoms**
 :::
-:::{card} card 9
-physical prototypes
+:::{card} 
+**physical prototypes**
 :::
-:::{card} card 10
-3-D printed components 
+:::{card} 
+**3-D printed components**
 :::
 ::::
   
