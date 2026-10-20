@@ -276,8 +276,3 @@ Version control is a way to keep a history of changes to the research software a
 
 - You do not need to master all Git features at once. Start by keeping a clear history of your changes and writing meaningful commit messages. 
 
- 
-
- 
-
-## Check your understanding  
