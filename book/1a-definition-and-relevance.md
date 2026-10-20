@@ -2,21 +2,44 @@
  
 ## Defining Documentation  
 
-**Documentation** gives relevant details about the exact processes and conditions that were used to create, collect,  process or analyse research objects. **Research objects** are any of the digital or physical materials that are created, collected, used, transformed, or generated during a research or design project. Examples of research objects include:  
+**Documentation** gives relevant details about the exact processes and conditions that were used to create, collect,  process or analyse research objects. **Research objects** are any of the digital or physical materials that are created, collected, used, transformed, or generated during a research or design project. Scroll across the carousel below to see examples of research objects:  
 
-- research data
-- code used for analysis
-- a contact list of participants
-- models and simulations
-- raw measurement data
-- analysis code
-- experimental samples or phantoms
-- measurement setups
-- physical prototypes
-- CAD models
-- 3-D printed components, etc.  
+::::{card-carousel} 3
 
-Research objects like these support or underpin research findings. Effective documentation provides **enough relevant information** that someone (either yourself or others) can **understand, verify and re-use the research objects and reproduce the results**.  
+:::{card} card 1
+research data 
+:::
+:::{card} card 2
+code used for analysis 
+:::
+:::{card} card 3
+CAD models 
+:::
+:::{card} card 4
+a contact list of participants
+:::
+:::{card} card 5
+models and simulations
+:::
+:::{card} card 6
+analysis code
+:::
+:::{card} card 7
+raw measurement data
+:::
+:::{card} card 8
+experimental samples or phantoms
+:::
+:::{card} card 9
+physical prototypes
+:::
+:::{card} card 10
+3-D printed components 
+:::
+::::
+  
+
+Research objects like these support or underpin research findings. Effective documentation provides **enough relevant information** that someone (either yourself or others) can **understand, verify and re-use such research objects and reproduce the results**.  
 
 #### An analogy... 
 Documentation is like creating a recipe; an effective recipe describes with step-by-step precision how a dish was made, from start to finish. This might include exactly which ingredients were used and how much of each, how finely to chop them, in which order to add the ingredients (perhaps with an explanation of why that particular order works best), what temperature settings to cook things at, in which type of pan, for how long, how much to stir it, and perhaps describe how the dish should look and smell when it's perfectly done. That way, another cook can reproduce the exact dish if they want to. Fellow cooks can understand and appreciate the art that went into making the dish. At the same time, the documented recipe makes it possible for the original chef to retrace their steps and more easily make the dish again. Similarly, when researchers document their workflows and research objects, their **goal** should be to make their **results reproducible and understandable** by others (as well as by their later selves).  
