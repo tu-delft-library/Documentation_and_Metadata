@@ -278,12 +278,6 @@ Version control is a way to keep a history of changes to the research software a
 
  
 
-
-
- 
-
- 
-
  
 
 ## Check your understanding  
