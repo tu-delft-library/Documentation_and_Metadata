@@ -1,7 +1,9 @@
 (intro)=
-# Welcome to the mini-module: "Documentation and Metadata!" THIS MATERIAL IS CURRENTLY IN A PILOT PHASE. 
+# Welcome to the mini-module: "Documentation and Metadata!" 
 
 This mini-module is designed for students at TU Delft who are in the planning phase of research projects. 
+
+#### THIS MATERIAL IS CURRENTLY IN A PILOT PHASE. 
 
 Do you have additional feedback or questions? Please contact Data Literacy Project leader Paige Folsom: p.m.folsom@tudelft.nl
 
