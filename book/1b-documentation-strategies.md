@@ -151,18 +151,23 @@ These links give an explanation, a general template, and more examples of data d
 - <a href="https://library.si.edu/sites/default/files/tutorial/pdf/datadictionaries20180226.pdf" target="_blank"> Guide for creating a data dictionary </a>   
 :::
 
-Please note: Similar documentation to a data dictionary may be referred to as a “codebook” in some fields or for certain types of data, such as survey or qualitative data. Codebooks are relevant for coded responses and categories used in surveys and qualitative data. They are often used in the social sciences.  
+```{note}
+Please note: Similar documentation to a data dictionary may be referred to as a “codebook" in some fields or for certain types of data, such as survey or qualitative data. Codebooks are relevant for coded responses and categories used in surveys and qualitative data. They are often used in the social sciences. 
+```
+ 
 
  
 
 #### File naming conventions 
-File naming conventions and folder structures also support efficient documentation because they can give insights into how a project has been structured. For example, file names can help indicate the runs of an experiment and how it was sequenced, and folders can suggest key components of the project workflow. To learn more about creating intentional file names and folder structures, visit the mini-module File Naming & Folder Organisation.  
+File naming conventions and folder structures also support efficient documentation because they can give insights into how a project has been structured. For example, file names can help indicate the runs of an experiment and how it was sequenced, and folders can suggest key components of the project workflow. To learn more about creating intentional file names and folder structures, visit the mini-module <a href="https://tu-delft-library.github.io/file_naming_and_folder_organisation/home.html" target="_blank"> File Naming & Folder Organisation </a>.  
+
+
 
  
 
 ## Document Your Analysis 
 
-During data processing and analysis you must document your workflow to maintain a clear link between the data, your analysis method(s), and your results.  
+During data processing and analysis you must **document your workflow** to maintain a **clear link between the data, your analysis method(s), and your results**.  
 
 You need to document how you have processed and analysed the data to arrive at research findings, particularly when your project combines different types of research objects, methods, tools and equipment. Your documentation should make it possible for someone else to understand: 
 
@@ -180,7 +185,7 @@ In this way, you will provide documentation for your process of analysis: by doi
  
 ### Ways to document your analysis:  
 
-Two of the documentation tools already discussed for data collection can also be used to document the process of data analysis: A README and lab notebook.  
+Two of the documentation tools already discussed for data collection can also be used to document the process of data analysis: **a README** and **lab notebook**.  
 
 #### README file for analysis   
 
@@ -206,17 +211,17 @@ A computational or digital lab notebook (e.g. Jupyter Notebook, Quatro). It	can 
 
 - bring together your methodology, the code, and analysis in one 	document. 
 
- 
 
-[provide information about Jupyter notebook in a green box. If we add more than one example of a computational lab notebook, use tabs.]  
-
+:::{dropdown} More information about Jupyter Notebook 
 Jupyter Notebook is an open-source web application that combines live python code, equations, visualizations, and explanatory text in a single document. It ensures that figures and outputs are generated directly from the underlying data analysis, which reduces mistakes and improves transparency: 
 
-Jupyter Notebook beginner guide 
+- <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html" target="_blank"> Jupyter Notebook Beginner Guide </a> 
 
-Jupyter Notebook Training 
+- <a href="https://github.com/burkesquires/jupyter_training" target="_blank"> Jupyter Notebook Training </a> 
 
-A TU Delft project, JBOSS, lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex). 
+- A TU Delft project, <a href="https://jboss.tudelft.nl/cover/" target="_blank"> JBOSS </a>, lets you integrate your analysis, documentation, and writing through Jupyter Book and Git, enabling seamless connections between code, results, and manuscript preparation. It allows you to write your thesis, including your analysis and present it as your final report - where it automatically generates a pdf of your thesis (via Latex).
+  
+::: 
 
 
 ### Additional tools to document analysis 
