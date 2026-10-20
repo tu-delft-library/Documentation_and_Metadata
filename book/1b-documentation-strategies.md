@@ -87,13 +87,27 @@ A README file is a human-readable file that provides essential information about
 - experimental protocols 
 
 :::{dropdown} More information about lab notebooks
-Watch this video to learn about the features of RSpace:   
+Watch this 2-minute-long introductory video to learn about the features of RSpace:   
 
-2 Minute RSpace Introduction    
+<iframe
+width="560"   
+height="315"
+src="https://www.youtube.com/embed/q2CEnZRC1_o?si=bb0TCLkbZHIzDGDf"
+align="center"
+frameborder="0"
+allowfullscreen
+></iframe>   
 
 Watch this video for an introduction to key features of the eLabJournal electronic lab notebook:  
 
-eLabJournal - Electronic Laboratory Notebook 
+<iframe
+width="560"   
+height="315"
+src="https://www.youtube.com/embed/ys4BKEWWnEc?si=6CAoZU0JBKiZehkL"
+align="center"
+frameborder="0"
+allowfullscreen
+></iframe>  
 :::
  
 
