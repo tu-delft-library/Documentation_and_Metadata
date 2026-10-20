@@ -28,7 +28,7 @@ In **Section II**, we will **define metadata** and look at **common metadata ele
 
 ## Mini-module format  
 
-This mini-course is online and self-paced. It’s “mini” because it will take you approximately [beta-testers time it] to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module has an open format, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. 
+This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour and a half to go through the materials. The practice exercises and quizzes at the end of each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module has an open format, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. 
 
 ## Appreciations  
 
