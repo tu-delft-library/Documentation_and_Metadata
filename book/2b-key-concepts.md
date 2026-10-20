@@ -13,7 +13,7 @@ frameborder="0"
 allowfullscreen
 ></iframe>
 <br>
-
+<p style="font-size: x-small;"><em> "Knowledge Clip: Metadata" by Ghent University Open Science is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank"> CC BY 4.0</a></em></p>
  
 ## Review key concepts 
 
