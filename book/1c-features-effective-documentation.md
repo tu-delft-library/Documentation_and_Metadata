@@ -63,9 +63,3 @@ Documentation is most accessible if it is digital, machine-readable, findable, a
 
 ## Section summary 
 To summarize, complete, consistent, accurate, up-to-date and accessible documentation creates transparency by making it clear what was done to generate outputs, how, and why. 
-
- 
-
-nt of the severity of these risks, and mitigation measures for the risks. 
-
-Transparency on the model itself is also recommended by publishing the source code (properly versioned), algorithms, and parameters, at least.  
