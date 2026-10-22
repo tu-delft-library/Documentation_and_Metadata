@@ -6,7 +6,7 @@ This mini-module is for students who are in the planning phase of research proje
 
 ## Learning Goals.  
 
-In **Section I**, we will **define documentation** and explain why careful documentation is an **essential part of making research re-usable and reproducible**. We will explore different strategies to document research methods during the data collection stage and the data analysis stage of a project. We will look at a variety of documentation scenarios to make the concepts as concrete as possible. We hope that you will be able to immediately apply these strategies to document your workflow throughout your project. In this section, you will learn to:  
+In **Section 1**, we will **define documentation** and explain why careful documentation is an **essential part of making research re-usable and reproducible**. We will explore different strategies to document research methods during the data collection stage and the data analysis stage of a project. We will look at a variety of documentation scenarios to make the concepts as concrete as possible. We hope that you will be able to immediately apply these strategies to document your workflow throughout your project. In this section, you will learn to:  
 
 - Recognise that there are different strategies of documentation corresponding to different stages of a research project.  
 
@@ -16,7 +16,7 @@ In **Section I**, we will **define documentation** and explain why careful docum
 
 - Identify characteristics of efficient documentation.  
 
-In **Section II**, we will **define metadata** and look at **common metadata elements or standards**. We will learn about how metadata can make archived research data **more findable**. We hope that you will gain the skills necessary to generate relevant metadata for your project. In this section, you will learn to:  
+In **Section 2**, we will **define metadata** and look at **common metadata elements or standards**. We will learn about how metadata can make archived research data **more findable**. We hope that you will gain the skills necessary to generate relevant metadata for your project. In this section, you will learn to:  
 
 - Interpret common metadata elements. 
 
