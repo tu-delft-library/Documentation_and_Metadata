@@ -1,6 +1,6 @@
 # 1b. Documentation Strategies  
 
-While planning your project, you should define which tools you will use to document different stages of the research cycle. Here, we'll introduce and describe a variety of documentation strategies. There isn't a single right way to do documentation because the selected documentation tools and practices need to **fit the project and process**. We'll look at key questions and types of documentation that correspond to two important stages of the research project cycle: data collection and processing/analysis.  
+While planning your project, you should define which strategy and/or tool you will use to document different stages of the research cycle. Here, we'll introduce and describe a variety of documentation strategies. There isn't a single right way to do documentation because the selected documentation tools and practices need to **fit the project and process**. We'll look at key questions and types of documentation that correspond to two important stages of the research project cycle: data collection and processing/analysis.  
 
 ## Document data collection  
 
@@ -71,7 +71,9 @@ A lab notebook is used to take detailed notes on experimental procedures and to 
 
 - description of procedures 
 
-- description of experimental conditions 
+- description of experimental conditions
+
+- description of specific actions at specific timestamps 
 
 - hardware and software specifications and configurations (e.g. instrument models, software versions, calibration and measurement settings)  
 
@@ -113,7 +115,7 @@ allowfullscreen
 
 #### Data dictionary 
 
-A data dictionary explains data that has been entered in a spreadsheet. It allows others to clearly interpret variable names and values (OSF Support). 
+A data dictionary explains data that has been entered in files such as spreadsheets or CSV files. It defines the contents of the file and explains their structure. This allows others to clearly interpret variable names and values (OSF Support). 
 
 ##### What details are included in a data dictionary?  
 
@@ -125,7 +127,8 @@ A data dictionary explains data that has been entered in a spreadsheet. It allow
 
 - data types/formats 
 
-- the source of the data  
+- the source of the data
+
 
 ##### Good practices for data dictionaries  
 
