@@ -1,6 +1,6 @@
 # 1b. Documentation Strategies  
 
-While planning your project, you should define which tools you will use to document different stages of the research cycle. Here, we'll introduce and describe a variety of documentation strategies. There isn't a single “right” way to do documentation because the selected documentation tools and practices need to **fit the project and process**. We'll look at key questions and types of documentation that correspond to two important stages of the research project cycle: data collection and processing/analysis.  
+While planning your project, you should define which tools you will use to document different stages of the research cycle. Here, we'll introduce and describe a variety of documentation strategies. There isn't a single right way to do documentation because the selected documentation tools and practices need to **fit the project and process**. We'll look at key questions and types of documentation that correspond to two important stages of the research project cycle: data collection and processing/analysis.  
 
 ## Document data collection  
 
@@ -41,7 +41,7 @@ A README file is a human-readable file that provides essential information about
 
 **Good practices for a README** 
 
-1. It's recommended that researchers create READMEs to accompany all research objects. 
+1. You should create READMEs to accompany all research objects. 
 
 2. Use a human-readable, commonly accessible format, such as plain text (.txt) or Markdown (.md). 
 
@@ -49,9 +49,9 @@ A README file is a human-readable file that provides essential information about
 
 4. Use clear and consistent terminology, file names, and identifiers 
 
-5. Keep the README close to what it's describing:  
-
-6. A README that provides detailed information about a particular research object should be stored in the same folder as the research object that it is describing. A project-level README is stored in the root folder or main folder for a project. It describes the project, its overall folder structure, and the research objects it contains.
+5. Keep the README close to what it's describing:
+- A README that provides detailed information about a particular research object should be stored in the same folder as the research object that it is describing.
+- A project-level README is stored in the root folder or main folder for a project. It describes the project, its overall folder structure, and the research objects it contains.
 
 :::{dropdown} More information & templates for README's
 - <a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank"> README template for data </a>- You can download the template, save it as a .txt file, and fill in the information specific to the data for your project.  
@@ -146,8 +146,7 @@ These links give an explanation, a general template, and more examples of data d
 -  <a href="https://www.youtube.com/watch?v=Fe3i9qyqPjo" target="_blank"> Data Dictionaries video from the University of Wisconsin </a> 
   
 - <a href="https://help.osf.io/article/217-how-to-make-a-data-dictionary" target="_blank"> How to make a data dictionary </a>  
-
-- <a href="https://library.si.edu/sites/default/files/tutorial/pdf/datadictionaries20180226.pdf" target="_blank"> Guide for creating a data dictionary </a>   
+ 
 :::
 
 ```{note}
@@ -170,13 +169,11 @@ During data processing and analysis you must **document your workflow** to maint
 
 You need to document how you have processed and analysed the data to arrive at research findings, particularly when your project combines different types of research objects, methods, tools and equipment. Your documentation should make it possible for someone else to understand: 
 
-- which data were used and how they were collected 
+- **Data collection method**: Which data were used how were they collected? 
 
-- how the data were processed and analysed, including the methods scripts, software versions, dependencies, hardware configurations (where relevant), and analysis parameters used 
+- **Data processing method**: How were the data processed and analysed? You should include the methods scripts, software versions, dependencies, hardware configurations (where relevant), and analysis parameters used.  
 
-- which input files produced which outputs or results 
-
-- how results presented in your final report can be traced back to the underlying data and analysis 
+- **Link inputs and outputs**: Which input files produced which outputs or results? Results presented in your final report should be traceable back to the underlying data and analysis.  
 
 
 In this way, you will provide documentation for your process of analysis: by doing so, you will keep the link between your research objects, processing steps, and findings. This will help you retrace your own work, explain and justify your conclusions, and correct or update your analysis later. It also allows your instructors and classmates to understand and verify how the findings in your report were produced. 
@@ -223,11 +220,11 @@ Jupyter Notebook is an open-source web application that combines live python cod
 ::: 
 
 
-### Additional tools to document analysis 
+### Documenting code and scripts  
 
-Additional tools to document data analysis when working with codes and scripts include **code comments** and **version control**.  
+Additional tools to document data analysis when working with code and scripts include **code comments** and **version control**.  
 
-To illustrate how these documentation tools can be helpful, imagine you're using code to analyse your research data. Perhaps you don't look the code for a while during an illness or a vacation. If you return to your code after several weeks, could you quickly identify the right script and understand what it does? Or could you explain to a teammate how you produced a figure? Code comments make it easier to understand, re-use and return to projects involving scripts.  
+To illustrate how these documentation tools can be helpful, imagine you're using code to analyse your research data. Perhaps you don't look at the code for a while during an illness or a vacation. If you return to your code after several weeks, could you quickly identify the right script and understand what it does? Or could you explain to a teammate how you produced a figure? Code comments make it easier to understand, re-use and return to projects involving scripts.  
 
 Then, to avoid losing work or confusion over which file is the latest version, using version control can help to maintain a clear history of changes. Let's look at each tool in more detail:   
 
@@ -238,9 +235,7 @@ Then, to avoid losing work or confusion over which file is the latest version, u
 Code comments or code notes are in-line notes that you can add to source code while making changes to code and software in a terminal or command line interface.  They're not executable (they don't run with the code), but they give explanation or context about the code’s purpose, logic, and the important decisions that you've made while writing and testing the code.  
 
  
-
-**Good practices for code comments:** 
-
+:::{dropdown} Good practices for code comments
 - Use comments to explain why a decision was made, especially when the reason is not obvious from the code itself.  
 
 - Document assumptions, chosen parameters, units, thresholds, data-cleaning rules and any manual decisions that affect the results.  
@@ -251,7 +246,10 @@ Code comments or code notes are in-line notes that you can add to source code wh
 
 - For reusable functions, add a short description of what the function does, with its inputs and outputs.  
 
-- Comments do not replace a README file. Use comments for local explanations within the code. Use a README to explain the wider project, scripts, data, and dependencies. 
+- Comments do not replace a README file. Use comments for local explanations within the code. Use a README to explain the wider project, scripts, data, and dependencies.
+:::
+
+ 
 
  
 
@@ -259,8 +257,9 @@ Code comments or code notes are in-line notes that you can add to source code wh
 
 Version control is a way to keep a history of changes to the research software and code. It helps you identify which version of the analysis produced a particular result, compare or restore earlier versions, and collaborate without overwriting each other’s work. It can also help you maintain a traceable workflow from the original research objects through processing and analysis to the final results. 
 
-**Good practices for version control:**  
+You do not need to master all Git features at once. Start by keeping a clear history of your changes and writing meaningful commit messages. 
 
+:::{dropdown} Good practices for version control 
 - Use a version-control system such as Git to record changes to research software and code. Platforms such as GitHub or GitLab can be used to store and share the repository online. 
 
 - Make small, regular commits (snapshot of changes) rather than saving many changes at once. 
@@ -272,6 +271,9 @@ Version control is a way to keep a history of changes to the research software a
 - Do not upload confidential information, personal data, passwords or sensitive project files to a public repository! 
 
 - Keep a clear link between your raw research objects, processing scripts and final results. For example, maintain a record of which input files a script uses and what outputs it produces. 
+:::
 
-- You do not need to master all Git features at once. Start by keeping a clear history of your changes and writing meaningful commit messages. 
+
+
+
 
