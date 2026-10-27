@@ -1,6 +1,6 @@
 # Welcome  
 
-This module is for students who are in the planning phase of research projects. It aims to teach the importance and use of **research documentation**, a way to record and communicate the exact execution of research methods and conditions during the research. In addition, it aims to explain the use of metadata linked to research objects. When you conduct a research project it is important that others can find your work, build upon it and understand what you have done. Both research documentation and metadata are essential to support transparent, findable, and reproducible research. 
+This module is for students who are in the planning phase of research projects. It aims to teach the importance and use of **research documentation**, a way to record and communicate the exact execution of research methods and conditions during the research. In addition, it aims to explain the use of **metadata** linked to research objects. When you conduct a research project it is important that others can find your work, build upon it and understand what you have done. Both research documentation and metadata are essential to support transparent, findable, and reproducible research. 
 
 ## Learning Goals.  
 
