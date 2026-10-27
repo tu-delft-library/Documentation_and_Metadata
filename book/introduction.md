@@ -1,26 +1,22 @@
 # Welcome  
 
-This mini-module is for students who are in the planning phase of research projects. It aims to teach the key concepts of documentation and metadata that are essential to participate in findable, re-usable, and transparent research.  
-
- 
+This module is for students who are in the planning phase of research projects. It aims to teach the importance and use of **research documentation**, a way to record and communicate the exact execution of research methods and conditions during the research. In addition, it aims to explain the use of metadata linked to research objects. When you conduct a research project it is important that others can find your work, build upon it and understand what you have done. Both research documentation and metadata are essential to support transparent, findable, and reproducible research. 
 
 ## Learning Goals.  
 
-In **Section 1**, we will **define documentation** and explain why careful documentation is an **essential part of making research re-usable and reproducible**. We will explore different strategies to document research methods during the data collection stage and the data analysis stage of a project. We will look at a variety of documentation scenarios to make the concepts as concrete as possible. We hope that you will be able to immediately apply these strategies to document your workflow throughout your project. In this section, you will learn to:  
+In **Section 1**, we will **define documentation** and explain why careful documentation is an **essential part of making research re-usable and reproducible**. We will explore different strategies to document research methods during the data collection stage and the data processing and analysis stage of a project. We will look at a variety of documentation scenarios to make the concepts as concrete as possible. We hope that you will be able to immediately apply these strategies to document your workflow throughout your project. In this section, you will learn to:  
 
 - Recognise that there are different strategies of documentation corresponding to different stages of a research project.  
 
 - Understand why it's important to include careful documentation to accompany research data and findings.  
 
-- Recognise that it's useful to plan ahead for documentation strateg(ies) in the planning phase of a project.  
+- Recognise that it's useful to plan ahead for documentation strategies in the planning phase of a project.  
 
-- Identify characteristics of efficient documentation.  
+- Identify characteristics of effective documentation.  
 
 In **Section 2**, we will **define metadata** and look at **common metadata elements or standards**. We will learn about how metadata can make archived research data **more findable**. We hope that you will gain the skills necessary to generate relevant metadata for your project. In this section, you will learn to:  
 
-- Interpret common metadata elements. 
-
-- Identify the characteristics of complete metadata. 
+- Interpret common metadata fields. 
 
 - Recognise that metadata practices vary across disciplines: using relevant conventions can support understanding and reuse of the research outputs  
 
