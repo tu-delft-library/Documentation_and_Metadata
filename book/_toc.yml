@@ -13,6 +13,10 @@ parts:
     chapters:
       - file: 1a-definition-and-relevance.md
       - file: 1b-documentation-strategies.md
+      sections: 
+          - file: Document_data_collection.md
+          - file: Document_analysis.md
+          - file: Document_code_and_scripts.md
       - file: 1c-features-effective-documentation.md
       - file: 1d-different-fields.md
       - file: 1e-documentation-and-AI.md
