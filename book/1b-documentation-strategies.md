@@ -12,7 +12,6 @@ During and after data collection you must document the experimental conditions a
  
 #### README file 
 
-**What is it?** 
 A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a project and/or research object to ensure these can be interpreted correctly (Fuchs et al., 2018).  
 
  **What details are included in a README?**  
@@ -66,7 +65,7 @@ A README file is a human-readable file that provides essential information about
 
 #### Lab notebook  
 
-**Definition:** A lab notebook is used to take detailed notes on experimental procedures and to collect data during an experiment. A digital lab notebook can be shared between collaborators and can be backed up more easily than paper lab notebooks. TU Delft has two digital lab notebooks: RSpace and eLabJournal. We'll do a brief introduction to each. Then, if one of these lab notebooks fits the needs of your project, you can experiment with it further.  
+A lab notebook is used to take detailed notes on experimental procedures and to collect data during an experiment. A digital lab notebook can be shared between collaborators and can be backed up more easily than paper lab notebooks. TU Delft has two digital lab notebooks: RSpace and eLabJournal. We'll do a brief introduction to each. Then, if one of these lab notebooks fits the needs of your project, you can experiment with it further.  
 
 **What details are entered in a lab notebook?**  
 
@@ -97,6 +96,7 @@ align="center"
 frameborder="0"
 allowfullscreen
 ></iframe>   
+<br>
 
 Watch this video for an introduction to key features of the eLabJournal electronic lab notebook:  
 
@@ -113,7 +113,6 @@ allowfullscreen
 
 #### Data dictionary 
 
-##### Definition
 A data dictionary explains data that has been entered in a spreadsheet. It allows others to clearly interpret variable names and values (OSF Support). 
 
 ##### What details are included in a data dictionary?  
