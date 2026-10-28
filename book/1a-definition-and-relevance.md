@@ -7,19 +7,19 @@
 ::::{card-carousel} 3
 
 :::{card} 
-**research data** 
-(a few examples of research data include: measurements, images and scans, video footage, observations, designs)
+**research data**: 
+a few examples of research data include measurements, images and scans, video footage, observations, designs
 :::
 :::{card} 
 **code used for analysis**
 :::
 :::{card} 
-**CAD models** 
-(a 2-dimensional or 3-dimensional digital model that is based on a physical object, created with design software) 
+**CAD models**: 
+a 2-dimensional or 3-dimensional digital model that is based on a physical object, created with design software 
 :::
 :::{card} 
-**a contact list of study participants**
-(for example, people you surveyed or interviewed during a project, or people who helped you to test a prototype) 
+**a contact list of study participants**: 
+for example, people you surveyed or interviewed during a project, or people who helped you to test a prototype 
 :::
 :::{card} 
 **models and simulations**
@@ -28,16 +28,16 @@
 **raw measurement data**
 :::
 :::{card} 
-**experimental samples**
-(experimental samples are specific materials or specimens that are being tested) 
+**experimental samples**: 
+experimental samples are specific materials or specimens that are being tested 
 :::
 :::{card}
-**phantoms**
-(a phantom is a physical model built to mimic a real object, such as a bone or organ) 
+**phantoms**: 
+a phantom is a physical model built to mimic a real object, such as a bone or organ 
 :::
 :::{card} 
-**physical prototypes**
-(a physical prototype is a 3-dimensional mock-up of a component or a product that can be tested, evaluated, and then adjusted) 
+**physical prototypes**: 
+a physical prototype is a 3-dimensional mock-up of a component or a product that can be tested, evaluated, and then adjusted 
 :::
 :::{card} 
 **3-D printed components**
