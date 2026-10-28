@@ -68,9 +68,11 @@ Documentation is most accessible if it is digital, machine-readable, findable, a
 
 - Scenario 2: It's difficult to find the documentation file for a project because the location of the file is not clear (e.g. it's not clearly named or it's not saved next to the research object that it's describing).   
 
-- Scenario 3: The documentation for an experiment is locked behind a paywall or a restricted access portal.  
+- Scenario 3: The documentation for an experiment is locked behind a paywall or a restricted access portal.
+
+- Scenario 4: A team at one university documents their project using a lab notebook file that is not in a commonly recognized or available format. Later, researchers at another university try to access the documentation file, but they're not able to open it. 
 ``` 
 In all of these examples, lack of **accessibility** means that documentation files cannot be easily read. Thus it's hard to interpret the results and re-use the research objects that were generated during these projects. 
 
 ## Section summary 
-To summarize, complete, consistent, accurate, up-to-date and accessible documentation creates transparency by making it clear what was done to generate outputs, how, and why. It also supports efficiency during research and reproducibility of your results and findings. 
+To summarize, complete, consistent, accurate, and up-to-date documentation creates transparency by making it clear what was done to generate outputs, how, and why. Accessible documentation enables others to find, open, and be able to re-use and reproduce research objects, results and findings. And these features help to increase efficiency during research. 
