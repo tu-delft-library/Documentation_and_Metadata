@@ -10,7 +10,7 @@ Here, we'll examine at five characteristics of “good” data documentation tha
 
 Below, we'll explain each feature and give concrete scenarios showing what can go wrong if documentation does *not* have these features.   
 
-## Complete: 
+## Complete 
 The documentation includes all details and contextual information that would be required to understand what was done and, where applicable, reproduce the testing conditions to repeat or continue the work. 
 
 ```{admonition} Scenario: incomplete documentation  
@@ -23,7 +23,7 @@ Due to this incomplete documentation, it's not possible for others to assess the
 ```  
 This example shows the importance of including relevant details and **complete** information about experimental conditions in documentation files. 
 
-## Consistent: 
+## Consistent 
 Units, names, terminology, variables are documented, and documentation practices are used consistently throughout the project. 
 
 For collaborative projects, the planned documentation strategy should remain consistent across collaborators. You can imagine how confusing and unnecessarily difficult it would become if each collaborator documents differently. Thus, it's important to **establish norms for documentation** early on when doing projects with other people.  
