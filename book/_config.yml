@@ -3,7 +3,7 @@
 # This config includes an opinionated list of configuration options of TeachBooks, Jupyterbook v1, Sphinx and other extensions part of TeachBooks-Favourites.
 
 title: "Documentation and Metadata"                          # Replace with your own book title shown in browser tab, configuratin part of JupyterBook: https://jupyterbook.org/en/stable/customize/config.html
-author: The Data Literacy Project @ TU Delft Library Education Support in partnership with Research Data & Software   # Replace TeachBooks Teams with your own name in the line above, configuratin part of JupyterBook: https://jupyterbook.org/en/stable/customize/config.html
+author: Created by Paige Folsom (The Data Literacy Project @ TU Delft Library Education Support) in partnership with Narmin Rzayeva (Research Data & Software)   # Replace TeachBooks Teams with your own name in the line above, configuratin part of JupyterBook: https://jupyterbook.org/en/stable/customize/config.html
 execute:
   execute_notebooks: "off"                           # Replace this if you want don't have notebooks with output and you want to add notebook output during build, configuration part of Jupyterbook v1 (https://jupyterbook.org/en/stable/customize/config.html)
   exclude_patterns:  []                              # Default value (line can be removed), sets a list of patterns to *skip* in execution, configuration part of Jupyterbook v1 (https://jupyterbook.org/en/stable/customize/config.html), can overwritten by Sphinx-NB-Execution-Patterns (https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-NB-Execution-Patterns/Manual/README.html)
