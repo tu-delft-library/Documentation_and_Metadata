@@ -1,6 +1,6 @@
 # Document Your Analysis 
 
-During data processing and analysis you must **document your workflow** to maintain a **clear link between the data, your analysis method(s), and your results**.  
+During data processing and analysis you must **document your workflow** to maintain a **clear link between the data, your processing and analysis method(s), and your results**.  
 
 You need to document how you have processed and analysed the data to arrive at research findings, particularly when your project combines different types of research objects, methods, tools and equipment. Your documentation should make it possible for someone else to understand: 
 
