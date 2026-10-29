@@ -17,7 +17,7 @@ You do not need to invent documentation practices from scratch! Instead, you sho
 
 - Discuss norms for documentation with your project supervisor. 
 
-- Visit a repository specific to your discipline to get a sense of how researchers provide documentation for research objects within your field. <a href="https://www.re3data.org/" target="_blank"> Re3data </a>  helps you to find discipline-specific repositories using keywords. Try doing a search by typing your project topic into Re3data's search window.  
+- Visit a repository specific to your discipline to get a sense of how researchers provide documentation for research objects within your field. <a href="https://www.re3data.org/" target="_blank"> Re3data </a>  helps you to find discipline-specific repositories using keywords. The re3data search engine offers an advanced browsing method that allows you to search by subject area. Try it out! Do a search by typing your project topic into Re3data's search window.  
 
 - Ask a Data Steward:
   
