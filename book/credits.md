@@ -13,4 +13,7 @@ We anticipate that the content of this mini-module will change with further upda
 
 
 ## License
+
+© 2026 TU Delft. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
 This mini-module is [CC BY 4.0 licensed](https://creativecommons.org/licenses/by/4.0/) allowing you to share and adapt the material, as long as the source is named. Please note that not all sources included in the Reference List have a CC BY license.
