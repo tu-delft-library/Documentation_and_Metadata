@@ -45,5 +45,9 @@ AI tool used:
 
 ## How to cite this resource 
 
-> `Folsom, P., Rzayeva, N.` (`2026`) _`Documentation and Metadata`_. `<https://tu-delft-library.github.io/Documentation_and_Metadata/main/home.html>`. Source files at `<<https://github.com/tu-delft-library/Documentation_and_Metadata>`. CC BY 4.0.
+> `Folsom, P., Rzayeva, N.` (`2026`) _`Documentation and Metadata`_. TU Delft Library. `<https://tu-delft-library.github.io/Documentation_and_Metadata/main/home.html>`. Source files at `<<https://github.com/tu-delft-library/Documentation_and_Metadata>`.
+
+## License 
+
+© 2026 TU Delft. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
