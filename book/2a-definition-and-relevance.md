@@ -11,7 +11,7 @@ Examples of **common metadata fields** include:
 - the version
 - the instrument or software used  
 
-It's important to note that **well-structured metadata can be read by humans and also by *machines***. Also, the creation of metadata should be ongoing throughout a project: it needs to be recorded and updated as research objects are created, processed, and connected to other outputs.  
+It's important to note that ideally, **well-structured metadata can be read by humans and also by *machines***. Also, the creation of metadata should be ongoing throughout a project: it needs to be recorded and updated as research objects are created, processed, and connected to other outputs.  
 
  
 
