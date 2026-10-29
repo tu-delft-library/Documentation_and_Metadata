@@ -7,9 +7,9 @@ While generative AI can be used to aid documentation and data analysis, this sho
 
 - **You hold responsibility for outputs**: You as a user are the one responsible for the outputs, so you must always check the correctness of the outputs. You are the one who should use your expertise and critical thinking to judge the results proposed by GenAI.  
 
-- **Protect sensitive data**: If your research involves data that originated from human participants (e.g. people's medical information including imaging and lab results, survey responses, social media posts) this data should not be fed directly into AI.   
+- **Protect sensitive data**: If your research involves data that originated from human participants (e.g. people's medical information including imaging and lab results, survey responses, social media posts) *this data should not be fed directly into AI*.   
 
-- **Don't insert the work of others**: If your project involves research objects that belong to someone else (e.g. a company's proprietary data) these should not be fed into AI.  
+- **Don't insert the work of others**: If your project involves research objects that belong to someone else (e.g. a company's proprietary data) *these should not be fed into AI*.  
 
 - **Verify with your supervisor**:  You must check for institutional policies for AI use and ask your supervisor about norms within your program. 
   
