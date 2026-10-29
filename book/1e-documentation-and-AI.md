@@ -13,7 +13,7 @@ While generative AI can be used to aid documentation and data analysis, this sho
 
 - **Verify with your supervisor**:  You must check for institutional policies for AI use and ask your supervisor about norms within your program. 
   
-## Using AI to support documentation:  
+## Using AI to support documentation  
 You can use GenAI as a consultation tool by asking for advice on the structure, content of your documentation, and discipline-specific documentation standards. For example:  
 
 - Ask GenAI to help you create a README file or a data dictionary (but not for proprietary data, and not for data originating from humans).  
