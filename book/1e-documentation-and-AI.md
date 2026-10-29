@@ -1,18 +1,19 @@
 # 1e. Documentation and AI  
 
-
 **Caution and transparency** are key when you have used generative AI in your workflow for a project. Transparency is also essential when you have used training data to create AI tools/models.  
-## Using AI to support documentation:  
+## Exercise Caution with AI 
 
 While generative AI can be used to aid documentation and data analysis, this should be done with a **high degree of caution**: 
 
-- You as a user are the one responsible for the outputs, so you must always check the correctness of the outputs. You are the one who should use your expertise and critical thinking to judge the results proposed by GenAI.  
+- **You hold responsibility for outputs**: You as a user are the one responsible for the outputs, so you must always check the correctness of the outputs. You are the one who should use your expertise and critical thinking to judge the results proposed by GenAI.  
 
-- If your research involves data that originated from human participants (e.g. people's medical information including imaging and lab results, survey responses, social media posts) this data should not be fed into AI.   
+- **Protect sensitive data**: If your research involves data that originated from human participants (e.g. people's medical information including imaging and lab results, survey responses, social media posts) this data should not be fed directly into AI.   
 
-- If your project involves research objects that belong to someone else (e.g. a company's proprietary data) these should not be fed into AI.  
+- **Don't insert the work of others**: If your project involves research objects that belong to someone else (e.g. a company's proprietary data) these should not be fed into AI.  
 
- 
+- **Verify with your supervisor**:  You must check for institutional policies for AI use and ask your supervisor about norms within your program. 
+  
+## Using AI to support documentation:  
 You can use GenAI as a consultation tool by asking for advice on the structure, content of your documentation, and discipline-specific documentation standards. For example:  
 
 - Ask GenAI to help you create a README file or a data dictionary (but not for proprietary data, and not for data originating from humans).  
@@ -24,17 +25,14 @@ You can use GenAI as a consultation tool by asking for advice on the structure, 
 - Ask GenAI about common documentation practices in your discipline (ex: What are laboratory notebook guidelines for [discipline]?) 
 
  
-## Documenting use of Generative AI: 
+## Documenting use of Generative AI
 
 **Transparency and disclosure are key**. If GenAI tools are used in the creation, processing, analysis, coding, or interpretation of research objects, you must consider what information about this use needs to be documented to make the process understandable and transparent. 
 
-You should disclose your use of GenAI explicitly in your documentation: as part of your documentation, add information about which tool you used, on which date(s), and for which type of analysis or task(s).  
-
-You must check for institutional policies and ask your supervisor about norms within your program.  
+You should disclose your use of GenAI explicitly in your documentation: as part of your documentation, add information about which tool you used, on which date(s), and for which type of analysis or task(s).   
 
 
-
-## Documenting the creation of AI models:   
+## Documenting the creation of AI models  
 
 If your project is creating AI tools/models, you should document the process of creation and make the documentation openly available. Include: 
 
