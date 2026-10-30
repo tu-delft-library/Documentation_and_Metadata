@@ -2,22 +2,24 @@
 
 Thank you for participating in this mini-module! We aimed to provide information, examples, and practice opportunities so that you could develop the core competencies and knowledge necessary to plan documentation and metadata for your project. 
 
-## Review of learning goals 
+## Recap of topics discussed  
 This mini-module focused on these enduring understandings and skills: 
 
 - There are different strategies of documentation corresponding to different stages of a research project.  
 
 - It's important to include careful documentation to accompany research data and findings.  
 
-- It's useful to plan ahead for documentation strateg(ies) in the planning phase of a project.  
+- It's useful to plan ahead for documentation strategies in the planning phase of a project, as shown in the scenarios of documentation gone wrong.  
 
-- Characteristics of efficient documentation.  
+- Efficient documentation has five key features: it's complete consistent, accurate, up-to-date and accessible.  
 
-- We learned to interpret common metadata elements. 
+- There are elements commonly included in metadata. 
 
-- Common metadata fields. 
+- There are community metadata standards used within different fields. 
 
-- We discussed how metadata practices vary across disciplines and explained that using relevant conventions can support understanding and reuse of the research outputs.  
+- Using relevant metadata conventions can support understanding and reuse of the research outputs.
+
+- Generative AI can be used to support documentation and metadata, with caution.  
 
  
 
