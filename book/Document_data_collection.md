@@ -58,7 +58,7 @@ A README file is a human-readable file that provides essential information about
 
 ## Lab notebook  
 
-A lab notebook is used to take detailed notes on experimental procedures and to collect data during an experiment. A digital lab notebook can be shared between collaborators and can be backed up more easily than paper lab notebooks. TU Delft has two digital lab notebooks: RSpace and eLabJournal. We'll do a brief introduction to each. Then, if one of these lab notebooks fits the needs of your project, you can experiment with it further.  
+A lab notebook is used to take detailed notes on experimental procedures and to collect data during an experiment. A digital lab notebook can be shared between collaborators and can be backed up more easily than paper lab notebooks. TU Delft has two digital lab notebooks: RSpace and eLabJournal. Erasmus University uses _____. Below, we'll do a brief introduction to each. Then, if one of these lab notebooks fits the needs of your project, you can experiment with it further.  
 
 ### Details entered in a lab notebook  
 
@@ -102,7 +102,10 @@ src="https://www.youtube.com/embed/ys4BKEWWnEc?si=6CAoZU0JBKiZehkL"
 align="center"
 frameborder="0"
 allowfullscreen
-></iframe>  
+></iframe> 
+
+Visit this page to learn more about _____ used at Erasmus University: link 
+
 :::
  
 
