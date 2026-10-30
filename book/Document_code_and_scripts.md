@@ -13,7 +13,8 @@ Then, to avoid losing work or confusion over which file is the latest version, u
 In-line comments or code notes are in-line notes that you can add to source code while making changes to code and software in a terminal or command line interface.  They're not executable (they don't run with the code), but they give explanation or context about the code’s purpose, logic, and the important decisions that you've made while writing and testing the code.  
 
  
-:::{dropdown} Good practices for code comments
+ ### Good practices for code comments
+ 
 - Use in-line comments to explain why a decision was made, especially when the reason is not obvious from the code itself.  
 
 - Document assumptions, chosen parameters, units, thresholds, data-cleaning rules and any manual decisions that affect the results.  
@@ -25,7 +26,7 @@ In-line comments or code notes are in-line notes that you can add to source code
 - For reusable functions, add a short description of what the function does, with its inputs and outputs.  
 
 - In-line comments do not replace a README file. Use them for local explanations within the code. Use a README to explain the wider project, scripts, data, and dependencies.
-:::
+
 
  
 
@@ -35,7 +36,8 @@ Version control is a way to keep a history of changes to the research software a
 
 You do not need to master all Git features at once. Start by keeping a clear history of your changes and writing meaningful commit messages. 
 
-:::{dropdown} Good practices for version control 
+### Good practices for version control 
+
 - Use a version-control system such as Git to record changes to research software and code. Platforms such as GitHub or GitLab can be used to store and share the repository online. 
 
 - Make small, regular commits (snapshot of changes) rather than saving many changes at once. 
@@ -47,7 +49,7 @@ You do not need to master all Git features at once. Start by keeping a clear his
 - Do not upload confidential information, personal data, passwords or sensitive project files to a public repository! 
 
 - Keep a clear link between your raw research objects, processing scripts and final results. For example, maintain a record of which input files a script uses and what outputs it produces. 
-:::
+
 
 
 
