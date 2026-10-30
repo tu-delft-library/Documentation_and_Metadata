@@ -3,14 +3,11 @@
 During and after data collection you must document the experimental conditions and research methods used to collect the raw data. You will need to select tools and practices that fit the specifics of your project; the type(s) of documentation needs to fit the processes by which you plan to collect the data. Let's look at strategies that are often used to document how data was collected or to explain features of data that's been collected:  
 
  
-## Ways to document data collection  
-
- 
-### README file 
+## README file 
 
 A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a project and/or research object to ensure these can be interpreted correctly (Fuchs et al., 2018).  
 
- **What details are included in a README?**  
+ ### Details included in a README  
 ::::{card-carousel} 2
 
 :::{card} A README for a **dataset** generally includes:
@@ -35,7 +32,7 @@ A README file is a human-readable file that provides essential information about
 :::
 ::::
 
-**Good practices for a README** 
+### Good practices for a README 
 
 1. You should create READMEs to accompany all research objects. 
 
@@ -59,11 +56,11 @@ A README file is a human-readable file that provides essential information about
 
 
 
-#### Lab notebook  
+## Lab notebook  
 
 A lab notebook is used to take detailed notes on experimental procedures and to collect data during an experiment. A digital lab notebook can be shared between collaborators and can be backed up more easily than paper lab notebooks. TU Delft has two digital lab notebooks: RSpace and eLabJournal. We'll do a brief introduction to each. Then, if one of these lab notebooks fits the needs of your project, you can experiment with it further.  
 
-**What details are entered in a lab notebook?**  
+### Details entered in a lab notebook  
 
 - description of procedures 
 
@@ -109,11 +106,11 @@ allowfullscreen
 :::
  
 
-#### Data dictionary 
+## Data dictionary 
 
 A data dictionary explains data that has been entered in files such as spreadsheets or CSV files. It defines the contents of the file and explains their structure. This allows others to clearly interpret variable names and values (OSF Support). 
 
-##### What details are included in a data dictionary?  
+### Details included in a data dictionary  
 
 - a list of elements/variables found in the dataset 
 
@@ -126,7 +123,7 @@ A data dictionary explains data that has been entered in files such as spreadshe
 - the source of the data
 
 
-##### Good practices for data dictionaries  
+### Good practices for data dictionaries  
 
 - Write in clear and consistent variable names to make sure that others can understand and use the data dictionary.  
 
@@ -155,7 +152,7 @@ Please note: Similar documentation to a data dictionary may be referred to as a 
 
  
 
-#### File naming conventions 
+## File naming conventions 
 File naming conventions and folder structures also support efficient documentation because they can give insights into how a project has been structured. For example, file names can help indicate the runs of an experiment and how it was sequenced, and folders can suggest key components of the project workflow. To learn more about creating intentional file names and folder structures, visit the mini-module <a href="https://tu-delft-library.github.io/file_naming_and_folder_organisation/home.html" target="_blank"> File Naming & Folder Organisation </a>.  
 
 
