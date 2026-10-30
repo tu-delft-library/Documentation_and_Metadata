@@ -2,9 +2,9 @@
 
 During data processing and analysis you must **document your workflow** to maintain a **clear link between the data, your processing and analysis method(s), and your results**.  
 
-You need to document how you have processed and analysed the data to arrive at research findings, particularly when your project combines different types of research objects, methods, tools and equipment. Your documentation should make it possible for someone else to understand: 
+You need to document how you have processed and analysed the data to arrive at research findings, particularly when your project combines different types of research objects, methods, tools and equipment. Your documentation of your analysis and processing steps should make it possible for someone else to understand: 
 
-- **Data collection method**: Which data were used how were they collected? 
+- **Data collection method**: Which data were used and how were they collected? 
 
 - **Data processing method**: How were the data processed and analysed? You should include the methods scripts, software versions, dependencies, hardware configurations (where relevant), and analysis parameters used.  
 
