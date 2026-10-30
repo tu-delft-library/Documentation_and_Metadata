@@ -13,12 +13,10 @@ You need to document how you have processed and analysed the data to arrive at r
 
 In this way, you will provide documentation for your process of analysis: by doing so, you will keep the link between your research objects, processing steps, and findings. This will help you retrace your own work, explain and justify your conclusions, and correct or update your analysis later. It also allows your instructors and classmates to understand and verify how the findings in your report were produced. 
 
- 
-### Ways to document your analysis:  
 
 Two of the documentation tools already discussed for data collection can also be used to document the process of data analysis: **a README** and **lab notebook**.  
 
-#### README file for analysis   
+## README file for analysis   
 
 An analysis README uses the same README structure. It can be used to document:  
 
@@ -32,9 +30,9 @@ An analysis README uses the same README structure. It can be used to document:
 
  
 
-#### Lab notebook  
+## Lab notebook  
 
-A computational or digital lab notebook (e.g. Jupyter Notebook, Quatro). It	can be used to:  
+A computational or digital lab notebook	can be used to:  
 
 - combine code , explanatory text, and outputs such as tables and figures 
 
