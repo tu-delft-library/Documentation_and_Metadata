@@ -2,7 +2,7 @@
 
 ## Defining metadata
 
-Metadata is commonly referred to as “data about data”. Metadata gives information about the key attributes of a research object. 
+Metadata is commonly referred to as “data about data”. Metadata gives information about the key attributes of a research object. Metadata deserves a separate section in this mini-module because it can be structured and collected differently than other types of documentation. 
 
 Examples of **common metadata fields** include:  
 - the format
@@ -19,10 +19,16 @@ It's important to note that ideally, **well-structured metadata can be read by h
 
 Metadata is a key element of findable and reusable research projects because:  
 
+- As with other types of documentation, metadata is very **relevant for re-use of data and software** by other people (for example, within your team) and yourself.
+  
+-  Metadata offers **immediate insights** into what's included in a research object. 
+  
 - Metadata improves the **searchability and findability** of research objects by providing relevant description and contextual information.  
 
-- Metadata supports **discoverability, indexing and reuse** for research objects because it can be indexed and used as search terms.  
+- For research objects that have been uploaded to repositories, metadata supports **discoverability, indexing and reuse** because the metadata fields can be indexed and used as search terms.  
 
 - Machine-readable metadata makes it possible for repositories to **index and catalogue** research objects, which makes them easier for others to find.  
 
-In short, metadata offers immediate insights into what's included in a research object so that a researcher can determine if it's going to be useful or not.  
+
+
+
