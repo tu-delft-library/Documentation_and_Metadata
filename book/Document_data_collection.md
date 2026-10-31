@@ -5,10 +5,10 @@ During and after data collection you must document the experimental conditions a
  
 ## README file 
 
-A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a project and/or research object to ensure these can be interpreted correctly (Fuchs et al., 2018).  
+A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a whole project and/or an individual research object to ensure these can be interpreted correctly (Fuchs et al., 2018).  
 
  ### Details included in a README  
-::::{card-carousel} 2
+::::{card-carousel} 3
 
 :::{card} A README for a **dataset** generally includes:
 - Title of the dataset
@@ -29,6 +29,19 @@ A README file is a human-readable file that provides essential information about
 - The license and copyright holder
 - Citation
 - Acknowledgements  
+:::
+:::{card} A README describing **project** generally includes:  
+-  The project title
+-  A description of the project's purpose
+-  Names of authors and contributors
+-  Affiliations and contact information for authors
+-  An explanation of the file and folder structure
+-  A description of the research objects stored within (e.g. file formats; locations of documentation files for individual research objects)
+-  Required software and packages
+-  Metadata standards used (we'll learn more about this is section 2 of the mini-module)
+-  Licensing information
+-  How to cite the project and contents 
+-  
 :::
 ::::
 
@@ -58,7 +71,7 @@ A README file is a human-readable file that provides essential information about
 
 ## Lab notebook  
 
-A lab notebook is used to take detailed notes on experimental procedures and to collect data during an experiment. A digital lab notebook can be shared between collaborators and can be backed up more easily than paper lab notebooks. TU Delft has two digital lab notebooks: RSpace and eLabJournal. Erasmus University uses _____. Below, we'll do a brief introduction to each. Then, if one of these lab notebooks fits the needs of your project, you can experiment with it further.  
+A lab notebook is used to take detailed notes on experimental procedures and to collect data during an experiment. A digital lab notebook can be shared between collaborators and can be backed up more easily than paper lab notebooks. TU Delft has two digital lab notebooks: [RSpace](https://rspace.tudelft.nl) and [SciSure](https://tudelft.elabjournal.com) (SciSure is formerly known as eLabNext and you may hear it referred to as eLabJournal at TU Delft). Researchers at Erasmus Medical Center also commonly use SciSure. Below, we'll do a brief introduction to each. Then, if one of these lab notebooks fits the needs of your project, you can experiment with it further.  
 
 ### Details entered in a lab notebook  
 
@@ -93,7 +106,7 @@ allowfullscreen
 ></iframe>   
 <br>
 
-Watch this video for an introduction to key features of the eLabJournal electronic lab notebook:  
+Watch this video for an introduction to key features of SciSure's electronic lab notebook:  
 
 <iframe
 width="560"   
@@ -104,14 +117,12 @@ frameborder="0"
 allowfullscreen
 ></iframe> 
 
-Visit this page to learn more about _____ used at Erasmus University: link 
-
 :::
  
 
 ## Data dictionary 
 
-A data dictionary explains data that has been entered in files such as spreadsheets or CSV files. It defines the contents of the file and explains their structure. This allows others to clearly interpret variable names and values (OSF Support). 
+A data dictionary explains data that has been entered in files such as spreadsheets or CSV files. It defines the contents of the file and explains their structure. This allows others to clearly interpret variable names and values (OSF Support, 2025). 
 
 ### Details included in a data dictionary  
 
