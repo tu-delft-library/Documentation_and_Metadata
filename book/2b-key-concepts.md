@@ -30,7 +30,7 @@ Four types of metadata:
 To illustrate further, let's look at a research object and its attached metadata. This is a figure that represents wind energy with its attached metadata. The figure includes the four types of metadata.  
 
 <p align="center">
-  <img src="graphics/Metadata_wind_energy.gif" alt="Wind energy figure illustrating four types of metadata" width="650">
+  <img src="graphics/Metadata_graphic_revised.gif" alt="Wind energy figure illustrating four types of metadata" width="650">
 </p>
 
  
