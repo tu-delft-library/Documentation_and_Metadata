@@ -1,6 +1,6 @@
 # Document Data Collection 
 
-During and after data collection you must document the experimental conditions and research methods used to collect the raw data. You will need to select tools and practices that fit the specifics of your project; the type(s) of documentation needs to fit the processes by which you plan to collect the data. Let's look at strategies that are often used to document how data was collected or to explain features of data that's been collected:  
+During and after data collection you must document the experimental conditions and research methods used to collect the raw data or assemble research objects. You will need to select tools and practices that fit the specifics of your project; the type(s) of documentation needs to fit the processes by which you plan to collect the data. Let's look at strategies that are often used to document how research objects were collected or to explain features of research objects that have been collected:  
 
  
 ## README file 
