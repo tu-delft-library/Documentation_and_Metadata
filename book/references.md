@@ -19,6 +19,8 @@ Fuchs, S., Kuusniemi, M.E. (2018). Making a research project understandable - Gu
  
 Garcia Alvarez, M. G., & Momin, A. (2025). Meta-Template for Research Software (Version 2.1.2) [Computer software]. https://github.com/SS-NES/meta-template  
 
+OSF Support. (2025, October 17). How to make a data dictionary. https://help.osf.io/article/217-how-to-make-a-data-dictionary. CC-O
+
 Smithsonian Libraries and Archives. (2021, July 29). Describing your project. https://library.si.edu/research/describing-your-project 
 
  
