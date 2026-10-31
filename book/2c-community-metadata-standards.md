@@ -2,7 +2,7 @@
 
 ## Discipline-Specific Practices 
 
-Some fields of study have developed their own norms and specific guidelines for metadata, including how to abbreviate and name things. These subject-specific practices are called **community metadata standards**, sometimes called **schemas**. 
+If metadata is not automatically collected by instruments/sensors, etc. you should explore metadata standards used in different disciplines to know what to record. Some fields of study have developed their own norms and specific guidelines for metadata, including how to abbreviate and name things. These subject-specific practices are called **community metadata standards**, sometimes called **schemas**. These standards enable that the data can be understood by many people working the field outside your team.
 
 ## Explore the standards for your field 
 Find if there are community metadata standards related or close to your research project:   
