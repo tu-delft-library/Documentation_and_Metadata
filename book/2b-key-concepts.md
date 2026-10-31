@@ -2,7 +2,7 @@
 
 ## Metadata Knowledge Clip  
 
-This knowledge clip created by Data Stewards from Ghent University explains more about metadata, how metadata can be generated, and where it can be found. This video will also explain four categories of metadata. We don't think that you need to memorize these four categories in detail. Rather, we think it's useful to know that they exist so that you can build a more concrete idea of what qualifies as metadata. We suggest that you watch *only the first 5 minutes* of the video clip:  
+This knowledge clip created by Data Stewards from Ghent University explains more about metadata, how metadata can be generated, and where it can be found. This video will also explain four categories of metadata. We think it's useful to know that these categories exist so that you can build a more concrete idea of what qualifies as metadata. We suggest that you watch *only the first 5 minutes* of the video clip:  
 
 <iframe
 width="560"   
@@ -19,24 +19,15 @@ allowfullscreen
 
 Use the drop down questions to review key points from the video.
 
-:::{dropdown} #1 Where does metadata come from? 
-As you saw in the video, metadata can be generated automatically or created manually:  
 
-Some instruments and software automatically record metadata when research objects are created or collected. For example, metadata is sometimes automatically embedded in digital outputs like photos. 
-
-However, researchers often need to record important contextual metadata themselves, for example in a laboratory notebook, data dictionary, metadata template or README file. Metadata should be created and maintained within these documentation tools throughout the project. 
-
-When depositing a research object in a repository, you will need to complete the repository’s metadata form. (A repository is a storage platform that serves as a central location for preserving and sharing research objects, data, code, and methods so others can re-use these.) You normally provide key descriptive metadata, while the repository may add some information automatically, such as a deposit date or persistent identifier. 
-:::
-
-:::{dropdown} #2 What are four types of metadata? 
+:::{dropdown} #1 What are four types of metadata? 
 Four types of metadata: 
 - Descriptive
 - Structural
 - Technical
 - Administrative.  
 
-To illustrate further, let's look at a figure that represents wind energy with its attached metadata. The figure includes the four types of metadata.  
+To illustrate further, let's look at a research object and its attached metadata. This is a figure that represents wind energy with its attached metadata. The figure includes the four types of metadata.  
 
 <p align="center">
   <img src="graphics/Metadata_wind_energy.gif" alt="Wind energy figure illustrating four types of metadata" width="650">
@@ -46,9 +37,9 @@ To illustrate further, let's look at a figure that represents wind energy with i
 <p style="font-size: x-small;"><em>Adapted from "Wind Energy: Metadata Type" by Deutz et al. is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"target="_blank"> CC BY 4.0</a></em>, a derivative of the <a href=" https://zenodo.org/records/3712065"target="_blank"> original work</a></p>
 
 
-The **descriptive metadata (orange)** describes the plot for discovery and identification purposes and includes elements such as title, author, location, project period and keywords. 
+The **descriptive metadata (the orange animation on the right side of the figure)** describes the plot for discovery and identification purposes and includes elements such as title, author, location, project period and keywords. 
 
-The **administrative metadata (light green)** provides information to help manage the digital research object. Here, we see that it has a Creative Commons (CC) license. 
+The **administrative metadata (light green)** provides information to help manage the digital research object. Here, we see that it has a Creative Commons (CC) license. This means that other people are allowed to re-use the diagram. 
 
 The **technical metadata** is shown in **purple.** In this figure we see the instrument name listed. Technical metadata could also include the file type and size of the file.  
 
@@ -57,7 +48,7 @@ The **structural metadata** in **blue** is the project ID since it indicates how
 (Written explanations adapted from Deutz et al, 2020)  
 :::
 
-:::{dropdown} #3: How does metadata differ from the other types of documentation?
+:::{dropdown} #2: How does metadata differ from the other types of documentation?
 
 Metadata differs from other types of documentation because it is:  
 
@@ -66,6 +57,16 @@ Metadata differs from other types of documentation because it is:
 - Machine-readable 
 
 Documentation provides fuller explanatory context, while metadata provides **structured information** for describing, finding, and supporting the reuse of research objects. 
+:::
+
+:::{dropdown} #3 Where does metadata come from? 
+As you saw in the video, metadata can be generated automatically or created manually:  
+
+Some instruments and software automatically record metadata when research objects are created or collected. For example, metadata is sometimes automatically embedded in digital outputs like photos. 
+
+However, researchers often need to record important contextual metadata themselves, for example in a laboratory notebook, data dictionary, a template that provides suggested metadata fields, or a README file. Metadata should be created and maintained within these documentation tools throughout the project. 
+
+When depositing a research object in a repository, you will need to complete the repository’s metadata form. (A repository is a storage platform that serves as a central location for preserving and sharing research objects, data, code, and methods so others can re-use these.) You normally provide key descriptive metadata, while the repository may add some information automatically, such as a deposit date or persistent identifier. 
 :::
 
 ```{admonition} Protect sensitive metadata 
