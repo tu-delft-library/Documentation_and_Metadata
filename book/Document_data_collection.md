@@ -5,10 +5,13 @@ During and after data collection you must document the experimental conditions a
  
 ## README file 
 
-A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a whole project and/or an individual research object to ensure these can be interpreted correctly (Fuchs et al., 2018).  
+A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a whole project and/or an individual research object to ensure these can be interpreted correctly (Fuchs et al., 2018). 
 
  ### Details included in a README  
-::::{card-carousel} 3
+
+ Scroll across the carousel to see which fields are typically included in a README that describes a dataset, a piece of software, and a whole project. 
+ 
+::::{card-carousel} 2
 
 :::{card} A README for a **dataset** generally includes:
 - Title of the dataset
@@ -40,8 +43,7 @@ A README file is a human-readable file that provides essential information about
 -  Required software and packages
 -  Metadata standards used (we'll learn more about this is section 2 of the mini-module)
 -  Licensing information
--  How to cite the project and contents 
--  
+-  How to cite the project and its contents 
 :::
 ::::
 
