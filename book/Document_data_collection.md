@@ -5,7 +5,7 @@ During and after data collection you must document the experimental conditions a
  
 ## README file 
 
-A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets and software. README files accompany a whole project and/or an individual research object to ensure these can be interpreted correctly (Fuchs et al., 2018). 
+A README file is a human-readable file that provides essential information about a whole project or about individual research object(s) such as datasets, CAD drawings, and software. README files accompany a whole project and/or an individual research object to ensure these can be interpreted correctly (Fuchs et al., 2018). 
 
  ### Details included in a README  
 
